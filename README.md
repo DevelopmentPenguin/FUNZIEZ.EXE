@@ -6,6 +6,6 @@ make sure to be a good cookie.
 # tutorial
 just run "funziez.exe" and your
 computer will die.
-#notice
+# notice
 EPILIPSY WARNING
 strange gdi effects
