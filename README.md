@@ -9,3 +9,5 @@ computer will die.
 # notice
 EPILIPSY WARNING
 strange gdi effects
+# stars
+pls star this github i would really appreciate it :)
