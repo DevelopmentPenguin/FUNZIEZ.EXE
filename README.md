@@ -1,5 +1,5 @@
 # FUNZIEZ.EXE
-i made a virus using c#. only use this is a virtual machine.
+i made a virus using c#. only use this in a virtual machine.
 I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR COMPUTER
 DONT USE ON ANY REAL COMPUTER.
 make sure to be a good cookie.
